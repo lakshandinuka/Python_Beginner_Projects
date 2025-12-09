@@ -20,8 +20,7 @@ WEEKS 5–8 — DATA SCIENCE FOUNDATIONS
 WEEK 5 — NumPy- Arrays, indexing, broadcasting
 Project: Manual linear regression
 
-WEEK 6 — Pandas
-- DataFrames, cleaning, merging
+WEEK 6 — Pandas- DataFrames, cleaning, merging
 Project: Sales dataset analysis
 
 WEEK 7 — Visualization- Matplotlib, Seaborn
